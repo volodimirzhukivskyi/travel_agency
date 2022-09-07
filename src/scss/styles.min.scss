@@ -1,0 +1,31 @@
+@import "reset";
+@import url('http://fonts.cdnfonts.com/css/arial');
+@import "variables";
+@import "mixins";
+
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+html, body {
+  height: 100%;
+}
+
+html, body {
+  height: 100%;
+  font-family: 'Nunito', sans-serif;
+}
+
+.wrapper {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+@import "section/header";
+@import "section/slider_product";
+@import "section/benefits";
+@import "section/feedback";
+@import "section/footer";
+@import "all-media";

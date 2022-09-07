@@ -1,0 +1,27 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Volodimir Znpmhukivskyi",
+  "main": "app.js",
+  "git repository": "",
+  "scripts": {
+    "start": " gulp build && gulp dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Volodimir Zhukivskyi",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-js-minify": "0.0.3",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.54.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0"
+  }
+}
