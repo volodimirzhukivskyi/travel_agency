@@ -1,6 +1,9 @@
 # travel_agency
-## Використані технології: Gulp,SCSS,HTML,JS.
-### -Робота повністю адаптивна. Реалізовані також елементи інтерактивності зазначені на макеті.
-### -Адаптив зроблений на власний розсуд із-за відсутності макета.
-### -Робота викона за дедлайном протягом одного дня.
-### -Якщо є якісь зауваження по роботі прошу надати цю інформацію у фідбеці.
+## The technologies used:
+- Gulp;
+- SCSS;
+- HTML;
+- JS.
+## Features of this work:
+- The work has a responsive design for all screen resolutions.
+- It also includes many interactive elements implemented using pure JavaScript.
